@@ -1,6 +1,6 @@
 train: ./train/images
 val: ./valid/images
-
+test: ./test/test_zoom18
 
 nc: 1
 names: ['dump_site']
